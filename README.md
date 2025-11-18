@@ -31,9 +31,6 @@ Aplikasi ini menghadirkan daftar surah lengkap, tampilan bersih, performa tinggi
 
 ### 1️⃣ Clone Repository
 ```bash
-git clone https://github.com/username/aksata-quran.git
+git clone https://github.com/anggarathestarboy/AksataQuran.git
 cd aksata-quran
 npm i
-
-
-
