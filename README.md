@@ -12,7 +12,6 @@ Aplikasi ini menghadirkan daftar surah lengkap, tampilan bersih, performa tinggi
 - 🗣️ **Audio Ayat** 
 - ⭐ **Tandai Surah Favorit**
 - 🌙 **Dark Mode / Light Mode**
-- ⚡ **Performa Cepat & SEO Friendly (Next.js)**
 - 📱 **Responsive Design**
 
 ---
